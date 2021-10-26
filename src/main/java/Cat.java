@@ -2,7 +2,6 @@ public class Cat implements Runnable, Jumpable{
 
     String name;
     int age;
-    int height = 300;
 
     public Cat(String name, int age) {
         this.name = name;
