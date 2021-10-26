@@ -1,4 +1,4 @@
-public class Robot implements Runnable, Jumpable{
+public class Robot implements Player{
 
     String name;
     int height;

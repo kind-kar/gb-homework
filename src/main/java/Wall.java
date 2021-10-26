@@ -1,4 +1,4 @@
-public class Wall {
+public class Wall implements Barrier {
 
     int height;
 
