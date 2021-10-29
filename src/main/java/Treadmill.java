@@ -1,2 +1,2 @@
-public class Treadmill {
+public class Treadmill implements Barrier {
 }
