@@ -1,3 +1,5 @@
+package homework1;
+
 public class Cat implements Runnable, Jumpable{
 
     String name;
